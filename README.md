@@ -1,0 +1,2 @@
+# Sozlukk
+Ufak sözlük uygulaması 
