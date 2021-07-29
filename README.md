@@ -1,2 +1,2 @@
 # Sozlukk
-Ufak sözlük uygulaması 
+Sözlük uygulaması 
